@@ -23,7 +23,7 @@ html, body, header, footer, div, ul, li, a, img, span{ font-family: 'verdana'; p
 /*.box30, .box60{background: gray;}*/
 .box4{width: 24%}
 .box3{width: 30%; text-align: left; margin: 10px 5px;} .box23{width: 64%;}
-.box1{width: 100%;}.box2{width: 49%;}
+.box1{width: 100%;}.box2, .box2a{width: 49%;}
 .box90p{width: 90%;}
 .d900{max-width: 900px;}
 .box1h{width: 100px} .box1hr{width: calc(100% - 120px)}
@@ -62,7 +62,7 @@ html, body, header, footer, div, ul, li, a, img, span{ font-family: 'verdana'; p
 
 @media only screen and (max-width: 900px) {
 	
-.box3, .box23, .box2{width: 44%;}
+.box3, .box23, .box2, .box2a{width: 44%;}
 }
 
 @media only screen and (max-width: 600px){
