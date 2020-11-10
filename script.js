@@ -1,4 +1,4 @@
-var total = 6;
+var total = 7;
 function createSlick(){  
 
 	$(".slider").not('.slick-initialized').slick({
