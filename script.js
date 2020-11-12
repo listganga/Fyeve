@@ -1,4 +1,5 @@
 var total = 9;
+//commit 9a
 function createSlick(){  
 
 	$(".slider").not('.slick-initialized').slick({
