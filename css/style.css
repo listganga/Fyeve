@@ -25,10 +25,38 @@ footer{
 }
 
 
+.echo{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .8);
+    position: fixed;
+}
+.echo1{
+    width: 100%;
+}
+.echo h3{
+    color: #fff;
+}
+.enter{
+    padding: 20px 0;
+/*    background: red;*/
+    background: rgba(0, 0, 0, .5);
+    margin: 0 auto;
+    margin-top: 15%;
+}
 
 
+.enter1{
+    color: #f1f1f1;
+    background: #A11477;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
 
-
+    
+}
 
 
 @media only screen and (max-width: 600px){
